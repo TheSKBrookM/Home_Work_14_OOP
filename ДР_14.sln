@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДР_14_01", "ДР_14_01\ДР_14_01.csproj", "{FDEB6994-87C9-49FE-AC07-D08B8A0FAD1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДР_14_02", "ДР_14_02\ДР_14_02.csproj", "{57028544-34EC-4C4A-9869-343EEA593E3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДР_14_03", "ДР_14_03\ДР_14_03.csproj", "{6702A429-366C-4852-B101-D535C9AF9484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDEB6994-87C9-49FE-AC07-D08B8A0FAD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEB6994-87C9-49FE-AC07-D08B8A0FAD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEB6994-87C9-49FE-AC07-D08B8A0FAD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEB6994-87C9-49FE-AC07-D08B8A0FAD1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57028544-34EC-4C4A-9869-343EEA593E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57028544-34EC-4C4A-9869-343EEA593E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57028544-34EC-4C4A-9869-343EEA593E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57028544-34EC-4C4A-9869-343EEA593E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6702A429-366C-4852-B101-D535C9AF9484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6702A429-366C-4852-B101-D535C9AF9484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6702A429-366C-4852-B101-D535C9AF9484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6702A429-366C-4852-B101-D535C9AF9484}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A3344DB-EAA0-4E07-BEEE-7FD91C73BA1C}
+	EndGlobalSection
+EndGlobal
